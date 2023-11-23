@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/rayanjay15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayanjay15" height="20" width="30" /></a>
 <a href="https://linkedin.com/in/rajitha-jayarathne-3b4a7627a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayanjay15" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/rayanjay15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rayanjay15" height="20" width="30" /></a>
+<a href="https://www.hackerrank.com/rajitha_Jay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rayanjay15" height="20" width="30" /></a>
 <a href="https://www.leetcode.com/rayanjay15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rayanjay15" height="20" width="30" /></a>
 </p>
 <h1>                                        </h1>
