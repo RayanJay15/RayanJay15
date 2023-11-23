@@ -70,39 +70,6 @@
 ![Google Fonts](https://img.shields.io/badge/Google_Fonts-%234285F4.svg?&style=for-the-badge&logo=google-fonts&logoColor=white)
 
 
-####  General Purpose Programming Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%2320232A.svg?&style=for-the-badge&logo=typescript&logoColor=%3178C6)
-
-####  Markup, Expression, and Other Languages
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23000000.svg?&style=for-the-badge&logo=json&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-%231A202C.svg?&style=for-the-badge&logo=yaml&logoColor=white)
-
-####  Core Programming Platforms
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-
-####  Cloud Platforms
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-
-####  Database Management Systems
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
-or=white)
-![Material Icons](https://img.shields.io/badge/Material_Icons-%232196F3.svg?&style=for-the-badge&logo=material-design-icons&logoColor=white)
-![Normalize.css](https://img.shields.io/badge/Normalize.css-%23352A31.svg?&style=for-the-badge&logo=github&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-%23333.svg?&style=for-the-badge&logo=font-awesome&logoColor=white)
-
-
-
 
 ####  Tools
 
